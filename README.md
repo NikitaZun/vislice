@@ -5,3 +5,5 @@ Vislice so preprosta igra, kjer mora igralec uganiti besedo. Na voljo imaš omej
 ## Avtorji
 
 * Nikita Žun
+* Lucija Tekavc je bla velika pomoč
+* Hehe
